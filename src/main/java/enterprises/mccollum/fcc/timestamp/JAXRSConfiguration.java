@@ -12,5 +12,5 @@ import javax.ws.rs.core.Application;
  * 
  * @author airhacks.com
  */
-@ApplicationPath("api")
+@ApplicationPath("/api")
 public class JAXRSConfiguration extends Application {}
