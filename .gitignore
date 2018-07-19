@@ -1,0 +1,11 @@
+target/
+.settings/
+.vscode/
+.classpath
+.project
+
+#Log Files
+log.txt
+logError.txt
+audit.log
+
